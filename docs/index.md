@@ -77,7 +77,9 @@ Active Reviews is the landing page of the application.
 - A refresh button is available *(as indicated by the arrow)* to reload the list with missing Sessions.
 - Clicking on the Review button lands in the **Review Home** page of the selected session.
 
-![Active Reviews landing page listing open review sessions with a refresh button and Review buttons](assets/screenshot-2026-07-15-133706.png)
+A simple text preview of the Document is available (if provided). This is of plain text format, with a more detailed preview available in the Review Home.
+
+![Document Review Portal landing page listing open review sessions with closing dates, a document preview panel, and Review buttons](assets/screenshot-2026-07-20-163650.png)
 
 #### 2. Review Home
 
@@ -89,6 +91,7 @@ The following information are displayed in the consecutive order:
 2. Closing Date
 3. Current Expression (if previously submitted)
 4. Co-Sponsor Option (if previously submitted)
+5. Document Preview (if available)
 
 It consists of 5 buttons:
 
@@ -98,7 +101,7 @@ It consists of 5 buttons:
 4. View Comments
 5. View Document
 
-![Review Home page showing session title, closing date, current expression, co-sponsor status, and the five action buttons](assets/screenshot-2026-07-15-134515.png)
+![Review Home page showing closing date, current expression, co-sponsor status, a document preview panel, and the Add a Comment, Submit / Update My Expression, View Comments, and View Document buttons](assets/screenshot-2026-07-20-164110.png)
 
 Button 1, Navigate Back will load the Active Reviews page.
 Buttons 2 to 4 will load the page corelating to the selected action, while View Document will open the UI in a new tab in **Read-Only Mode**.
@@ -153,7 +156,7 @@ Co-Sponsoring is available and is recorded along with the expression.
 
 If an expression has been submitted successfully the following notification will appear.
 
-![Confirmation of Vote Submission](assets/pasted-image-20260720131615.png)
+![Green confirmation banner reading "Your expression has been recorded. You can return and update this at any time before the closing date."](assets/pasted-image-20260720131615.png)
 
 #### 5. View Comments
 
