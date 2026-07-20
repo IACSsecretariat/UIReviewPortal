@@ -153,6 +153,8 @@ Co-Sponsoring is available and is recorded along with the expression.
 
 If an expression has been submitted successfully the following notification will appear.
 
+![Confirmation of Vote Submission](assets/pasted-image-20260720131615.png)
+
 #### 5. View Comments
 
 This section contains all previously submitted comments from members that have access to the platform.
