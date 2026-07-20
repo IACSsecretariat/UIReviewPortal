@@ -196,4 +196,4 @@ it@iacs.org.uk
 
 ## Help
 
-For any additional questions please contact it@iacs.prg.uk.
+For any additional questions please contact it@iacs.org.uk.
