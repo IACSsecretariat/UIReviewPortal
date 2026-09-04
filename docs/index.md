@@ -152,7 +152,7 @@ Co-Sponsoring is available and is recorded along with the expression.
 
     1. *"Agreed With Comments"* is only available if the user has submitted a comment previously. If there is no comment under the users name, the user will be notified that the submitted expression is shifted to *"Agreed"*.
     2. Co-Sponsor is available only when the selected expression is *"Agreed"* or *"Agreed With Comments"*.
-    3. Any chance in previously submitted expressions is done exactly as the initial, including Co-Sponsoring changes.
+    3. Any change in previously submitted expressions is done exactly as the initial, including Co-Sponsoring changes.
 
 If an expression has been submitted successfully the following notification will appear.
 
