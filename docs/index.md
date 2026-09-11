@@ -58,7 +58,7 @@ The Portal consists of the following six pages:
 3. Add a Comment
 4. Submit / Update My Position
 5. View Comments
-6. View Document
+6. View Documents
 
 !!! note
 
@@ -73,11 +73,12 @@ Active Reviews is the landing page of the Portal.
 - It displays all currently active review sessions, or simply all UI documents in the **In-Review** status.
 - The session name and closing date are listed for each draft UI.
 - A refresh button is available *(as indicated by the arrow)* to reload the list if any sessions are missing.
+- You can read the disclaimer via the info icon.
 - Clicking the Review button opens the **Review Home** page of the selected session.
 
 A simple text preview of the Document is available (if provided). This preview is plain text; a more detailed preview is available on the Review Home page.
 
-![Draft IACS UI Review Portal landing page listing open review sessions with closing dates, a document preview panel, and Review buttons](assets/screenshot-2026-07-20-163650.png)
+![Draft IACS UI Review Portal landing page listing open review sessions with closing dates, a document preview panel, and Review buttons](assets/1.png)
 
 #### 2. Review Home
 
@@ -91,18 +92,20 @@ The following information is displayed, in this order:
 4. Co-Sponsor Option (if previously submitted)
 5. Document Preview (if available)
 
-It consists of five buttons:
+It consists of the following buttons:
 
 1. Navigate Back
 2. Submit / Update My Position
 3. Add a Comment
 4. View Comments
-5. View Document
+5. View IACS UI Clean Version
+6. View IACS UI Underlined Version (if provided)
+7. View IACS History File & Technical Background (if provided)
 
-![Review Home page showing closing date, current Position, co-sponsor status, a document preview panel, and the Add a Comment, Submit / Update My Position, View Comments, and View Document buttons](assets/screenshot-2026-07-20-164110.png)
+![Review Home page showing closing date, current Position, co-sponsor status, a document preview panel, and the Add a Comment, Submit / Update My Position, View Comments, and View Document buttons](assets/2.png)
 
 Button 1, Navigate Back, loads the Active Reviews page.
-Buttons 2 to 4 load the page corresponding to the selected action, while View Document opens the UI in a new tab in **Read-Only Mode**.
+Buttons 2 to 4 load the page corresponding to the selected action, while buttons 5 to 7 open the relevant document in a new tab in **Read-Only Mode**.
 
 **The document under review should not be editable by default. If the document is editable, please notify it@iacs.org.uk immediately.**
 
@@ -118,7 +121,7 @@ The page contains a **rich text editor**, allowing various font and style text i
 
 Attachments without any comment text included are not acceptable. This function is meant to provide an option to attach **supporting material** and not to replace the comment entirely.
 
-![Attachments panel showing an added file and the attach/remove/close controls](assets/screenshot-2026-07-16-153425.png)
+![Attachments panel showing an added file and the attach/remove/close controls](assets/3.png)
 
 Empty or blank submissions are not allowed, and the *"Submit Comment"* button is disabled until text is entered in the required section.
 
@@ -144,13 +147,14 @@ There are three options to select from:
 
 Co-Sponsoring is available and is recorded along with the Position.
 
-![Position selection page showing the Agreed / Agreed With Comments / Rejected With Comments options, the co-sponsor toggle, and Submit Position button](assets/pasted-image-20260720074700.png)
+![Position selection page showing the Agreed / Agreed With Comments / Rejected With Comments options, the co-sponsor toggle, and Submit Position button](assets/4.png)
 
 !!! note
 
     1. *"Agreed With Comments"* is only available if you have previously submitted a comment. If there is no comment under your name, you will be notified that your submitted Position has been changed to *"Agreed"*.
     2. Co-Sponsor is available only when the selected Position is *"Agreed"* or *"Agreed With Comments"*.
     3. Changes to a previously submitted Position, including Co-Sponsoring changes, are made in the same way as the initial submission.
+    4. If you delete your last or only comment, a Position of 'Agreed With Comments' changes to 'Agreed', and a Position of 'Rejected With Comments' is reset, leaving no Position recorded.
 
 If your Position has been submitted successfully, the following notification will appear.
 
@@ -186,14 +190,21 @@ Once the changes are saved, the Attachments window closes automatically and a no
 
 ![Green confirmation banner reading "Attachments Updated"](assets/pasted-image-20260720112625.png)
 
-#### 6. View Document
+#### 6. View Documents
 
-You can view the UI under review in read-only mode via the Portal.
+You can view the UI under review and the supporting documents in read-only mode via the Portal.
 
 Throughout the Portal, you can access the document via the *"View Document"* button, which appears on most pages.
 
-If you cannot access the Word file, please contact:
+If you cannot access the file, please contact:
 it@iacs.org.uk
+
+#### 7. General Notes
+
+1. Each page has a sidebar for easier navigation across the Portal.
+2. All buttons have a hover-over tooltip with descriptive text, which appears when you rest the cursor over a button for two seconds.
+3. The buttons to view the supporting documents (Underlined Version and History File & Technical Background) are visible only when those documents have been uploaded. The decision to upload them is made by the IACS General Policy Group (GPG) on a case-by-case basis.
+
 
 ## Help
 
